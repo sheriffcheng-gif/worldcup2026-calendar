@@ -1,0 +1,39 @@
+name: Update World Cup Calendar
+
+on:
+  schedule:
+    # Run twice daily at 06:00 and 18:00 UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate ICS
+        run: python generate_ics.py
+
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --quiet worldcup2026.ics && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add worldcup2026.ics
+          git commit -m "🔄 Update World Cup schedule $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
+          git push
