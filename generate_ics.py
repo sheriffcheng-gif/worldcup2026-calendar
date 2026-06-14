@@ -44,6 +44,8 @@ TEAMS_CN = {
     "Indonesia": "印尼", "Tanzania": "坦桑尼亚", "Mali": "马里",
     "Guinea": "几内亚", "Haiti": "海地", "Bolivia": "玻利维亚",
     "Peru": "秘鲁", "Paraguay": "巴拉圭", "Chile": "智利",
+    "Cape Verde": "佛得角", "Curaçao": "库拉索", "Curacao": "库拉索",
+    "Norway": "挪威", "Sweden": "瑞典",
 }
 
 # Stage name translations
