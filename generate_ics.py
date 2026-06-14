@@ -86,10 +86,47 @@ def fetch_json(url):
 
 
 def parse_date_time(date_str, time_str):
-    """Parse date and time strings into datetime object (UTC)"""
-    # date format: "2026-06-11", time format: "19:00"
-    dt_str = f"{date_str}T{time_str}:00Z"
-    return datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
+    """Parse date and time strings into datetime object (UTC)
+    Handles formats like "13:00", "13:00 UTC", "13:00 UTC-6", "19:00 UTC+5:30"
+    """
+    from datetime import timedelta, timezone as tz
+    import re
+    time_str = time_str.strip()
+    utc_offset_hours = 0
+
+    # Match patterns like "13:00 UTC-6" or "13:00 UTC+5:30" or "13:00 UTC" or just "13:00"
+    m = re.match(r'(\d{1,2}:\d{2})\s*(?:UTC)?([+-]?\d+(?::\d+)?)?', time_str)
+    if m:
+        time_part = m.group(1)
+        offset_str = m.group(2)
+        if offset_str:
+            # Parse offset like "-6" or "+5:30"
+            parts = offset_str.replace('+', '').split(':')
+            offset_hours = int(parts[0])
+            offset_minutes = int(parts[1]) if len(parts) > 1 else 0
+            utc_offset_hours = offset_hours + (offset_minutes / 60.0 if offset_hours >= 0 else -offset_minutes / 60.0)
+    else:
+        time_part = time_str.split()[0]  # fallback
+
+    # Parse as local time, then convert to UTC
+    # "13:00 UTC-6" → local=13:00, offset=-6 → UTC = 13:00 - (-6h) = 19:00 UTC
+    dt_local = datetime.fromisoformat(f"{date_str}T{time_part}:00")
+    dt_utc = dt_local - timedelta(hours=utc_offset_hours)
+    return dt_utc.replace(tzinfo=tz.utc)
+
+
+def format_goals(goals):
+    """Format goal details for description"""
+    if not goals:
+        return ""
+    parts = []
+    for g in goals:
+        name = g.get("name", "")
+        minute = g.get("minute", "")
+        pen = " (点球)" if g.get("penalty") else ""
+        og = " (乌龙)" if g.get("owngoal") else ""
+        parts.append(f"{name} {minute}'{pen}{og}")
+    return ", ".join(parts)
 
 
 def generate_ics(matches):
@@ -106,29 +143,53 @@ def generate_ics(matches):
     ]
 
     for i, match in enumerate(matches, 1):
-        home = translate(match.get("home", ""))
-        away = translate(match.get("away", ""))
-        stage = translate(match.get("stage", ""))
-        venue = match.get("venue", "")
+        home = translate(match.get("team1", match.get("home", "")))
+        away = translate(match.get("team2", match.get("away", "")))
+        stage = translate(match.get("stage", match.get("group", "")))
+        venue = match.get("ground", match.get("venue", ""))
         city = match.get("city", "")
         country = translate(match.get("country", ""))
         date = match.get("date", "")
         time = match.get("time", "")
+        score = match.get("score", {})
+        ft = score.get("ft", [])  # full-time: [home, away]
+        ht = score.get("ht", [])  # half-time: [home, away]
+        goals1 = match.get("goals1", [])
+        goals2 = match.get("goals2", [])
 
         if not date or not time:
             continue
 
         dt_start = parse_date_time(date, time)
-        # Assume 2 hours per match
         from datetime import timedelta
         dt_end = dt_start + timedelta(hours=2)
 
-        location = f"{venue}\\, {city}\\, {country}" if city else venue
-        summary = f"{home} vs {away}" if home and away else f"比赛 {i}"
-        if stage:
-            summary = f"{stage}: {summary}"
+        location = f"{venue}\\, {city}\\, {country}" if city and country else venue
 
-        description = f"阶段: {stage}\\n场地: {location}\\n自动更新于 {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
+        # Build summary: include score if match played
+        if ft and len(ft) == 2:
+            summary = f"{home} {ft[0]}-{ft[1]} {away}"
+            if stage:
+                summary = f"{stage}: {summary}"
+            # Add status emoji
+            summary = f"⚽ {summary}"
+        else:
+            summary = f"{home} vs {away}" if home and away else f"比赛 {i}"
+            if stage:
+                summary = f"{stage}: {summary}"
+
+        # Build description
+        desc_lines = [f"阶段: {stage}", f"场地: {location}"]
+        if ft and len(ft) == 2:
+            desc_lines.append(f"全场比分: {home} {ft[0]} - {ft[1]} {away}")
+            if ht and len(ht) == 2:
+                desc_lines.append(f"半场比分: {ht[0]} - {ht[1]}")
+            if goals1:
+                desc_lines.append(f"{home}进球: {format_goals(goals1)}")
+            if goals2:
+                desc_lines.append(f"{away}进球: {format_goals(goals2)}")
+        desc_lines.append(f"自动更新于 {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+        description = "\\n".join(desc_lines)
 
         lines.extend([
             "BEGIN:VEVENT",
@@ -153,24 +214,21 @@ def main():
     for url in DATA_URLS:
         try:
             data = fetch_json(url)
-            # OpenFootball format: array of rounds, each with matches
-            rounds = data if isinstance(data, list) else data.get("rounds", data.get("matches", []))
-            if isinstance(data, dict) and "rounds" not in data and "matches" not in data:
-                # Try to find the data in the top level
-                for key, val in data.items():
-                    if isinstance(val, list):
-                        rounds = val
-                        break
-
-            for round_data in rounds:
-                if isinstance(round_data, dict):
-                    stage = round_data.get("name", "")
-                    matches = round_data.get("matches", round_data.get("games", []))
-                    for match in matches:
-                        match["stage"] = stage
-                        all_matches.append(match)
-                elif isinstance(round_data, list):
-                    all_matches.extend(round_data)
+            # OpenFootball format: either flat list or dict with "matches"/"rounds" key
+            if isinstance(data, list):
+                all_matches.extend(data)
+            elif isinstance(data, dict):
+                matches = data.get("matches", data.get("rounds", []))
+                if isinstance(matches, list):
+                    all_matches.extend(matches)
+                # Also check for nested rounds structure
+                rounds = data.get("rounds", [])
+                if isinstance(rounds, list) and rounds and isinstance(rounds[0], dict) and "matches" in rounds[0]:
+                    for round_data in rounds:
+                        stage = round_data.get("name", round_data.get("round", ""))
+                        for match in round_data.get("matches", []):
+                            match["stage"] = stage
+                            all_matches.append(match)
         except Exception as e:
             print(f"Error fetching {url}: {e}")
 
