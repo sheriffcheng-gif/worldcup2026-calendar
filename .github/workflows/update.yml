@@ -2,8 +2,9 @@ name: Update World Cup Calendar
 
 on:
   schedule:
-    # Run twice daily at 06:00 and 18:00 UTC
-    - cron: '0 6,18 * * *'
+    # 世界杯期间每30分钟刷新比分 (6月11日-7月19日)
+    # 赛后改回 '0 6,18 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
