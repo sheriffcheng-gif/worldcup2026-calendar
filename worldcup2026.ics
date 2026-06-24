@@ -8,938 +8,938 @@ X-WR-CALDESC:2026世界杯赛程（自动更新）
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:wc2026-match-1
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:⚽ A组: 墨西哥 2-0 南非
 LOCATION:Mexico City
-DESCRIPTION:阶段: A组\n场地: Mexico City\n全场比分: 墨西哥 2 - 0 南非\n半场比分: 1 - 0\n墨西哥进球: Julián Quiñones 9', Raúl Jiménez 67'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Mexico City\n全场比分: 墨西哥 2 - 0 南非\n半场比分: 1 - 0\n墨西哥进球: Julián Quiñones 9', Raúl Jiménez 67'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-2
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:⚽ A组: 韩国 2-1 捷克
 LOCATION:Guadalajara (Zapopan)
-DESCRIPTION:阶段: A组\n场地: Guadalajara (Zapopan)\n全场比分: 韩国 2 - 1 捷克\n半场比分: 0 - 0\n韩国进球: Hwang In-Beom 67', Oh Hyeon-Gyu 80'\n捷克进球: Ladislav Krejcí 59'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Guadalajara (Zapopan)\n全场比分: 韩国 2 - 1 捷克\n半场比分: 0 - 0\n韩国进球: Hwang In-Beom 67', Oh Hyeon-Gyu 80'\n捷克进球: Ladislav Krejcí 59'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-3
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:⚽ A组: 捷克 1-1 南非
 LOCATION:Atlanta
-DESCRIPTION:阶段: A组\n场地: Atlanta\n全场比分: 捷克 1 - 1 南非\n半场比分: 1 - 0\n捷克进球: Michal Sadílek 6'\n南非进球: Teboho Mokoena 83' (点球)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Atlanta\n全场比分: 捷克 1 - 1 南非\n半场比分: 1 - 0\n捷克进球: Michal Sadílek 6'\n南非进球: Teboho Mokoena 83' (点球)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-4
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:⚽ A组: 墨西哥 1-0 韩国
 LOCATION:Guadalajara (Zapopan)
-DESCRIPTION:阶段: A组\n场地: Guadalajara (Zapopan)\n全场比分: 墨西哥 1 - 0 韩国\n半场比分: 0 - 0\n墨西哥进球: Luis Romo 50'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Guadalajara (Zapopan)\n全场比分: 墨西哥 1 - 0 韩国\n半场比分: 0 - 0\n墨西哥进球: Luis Romo 50'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-5
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:A组: 捷克 vs 墨西哥
 LOCATION:Mexico City
-DESCRIPTION:阶段: A组\n场地: Mexico City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Mexico City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-6
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:A组: 南非 vs 韩国
 LOCATION:Monterrey (Guadalupe)
-DESCRIPTION:阶段: A组\n场地: Monterrey (Guadalupe)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: A组\n场地: Monterrey (Guadalupe)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-7
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:⚽ B组: 加拿大 1-1 波黑
 LOCATION:Toronto
-DESCRIPTION:阶段: B组\n场地: Toronto\n全场比分: 加拿大 1 - 1 波黑\n半场比分: 0 - 1\n加拿大进球: Cyle Larin 78'\n波黑进球: Jovo Lukić 21'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: Toronto\n全场比分: 加拿大 1 - 1 波黑\n半场比分: 0 - 1\n加拿大进球: Cyle Larin 78'\n波黑进球: Jovo Lukić 21'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-8
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:⚽ B组: 卡塔尔 1-1 瑞士
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: B组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 卡塔尔 1 - 1 瑞士\n半场比分: 0 - 1\n卡塔尔进球: Miro Muheim 90+4' (乌龙)\n瑞士进球: Breel Embolo 17' (点球)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 卡塔尔 1 - 1 瑞士\n半场比分: 0 - 1\n卡塔尔进球: Miro Muheim 90+4' (乌龙)\n瑞士进球: Breel Embolo 17' (点球)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-9
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:⚽ B组: 瑞士 4-1 波黑
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: B组\n场地: Los Angeles (Inglewood)\n全场比分: 瑞士 4 - 1 波黑\n半场比分: 0 - 0\n瑞士进球: Johan Manzambi 74', Rubén Vargas 84', Johan Manzambi 90', Granit Xhaka 90+7' (点球)\n波黑进球: Ermin Mahmic 90+3'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: Los Angeles (Inglewood)\n全场比分: 瑞士 4 - 1 波黑\n半场比分: 0 - 0\n瑞士进球: Johan Manzambi 74', Rubén Vargas 84', Johan Manzambi 90', Granit Xhaka 90+7' (点球)\n波黑进球: Ermin Mahmic 90+3'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-10
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:⚽ B组: 加拿大 6-0 卡塔尔
 LOCATION:Vancouver
-DESCRIPTION:阶段: B组\n场地: Vancouver\n全场比分: 加拿大 6 - 0 卡塔尔\n半场比分: 3 - 0\n加拿大进球: Cyle Larin 16', Jonathan David 29', Jonathan David 45+3', Nathan Saliba 64', Mohamed Manai 75' (乌龙), Jonathan David 90+2'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: Vancouver\n全场比分: 加拿大 6 - 0 卡塔尔\n半场比分: 3 - 0\n加拿大进球: Cyle Larin 16', Jonathan David 29', Jonathan David 45+3', Nathan Saliba 64', Mohamed Manai 75' (乌龙), Jonathan David 90+2'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-11
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:B组: 瑞士 vs 加拿大
 LOCATION:Vancouver
-DESCRIPTION:阶段: B组\n场地: Vancouver\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: Vancouver\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-12
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:B组: 波黑 vs 卡塔尔
 LOCATION:Seattle
-DESCRIPTION:阶段: B组\n场地: Seattle\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: B组\n场地: Seattle\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-13
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:⚽ C组: 巴西 1-1 摩洛哥
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: C组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 巴西 1 - 1 摩洛哥\n半场比分: 1 - 1\n巴西进球: Vinícius Júnior 32'\n摩洛哥进球: Ismael Saibari 21'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 巴西 1 - 1 摩洛哥\n半场比分: 1 - 1\n巴西进球: Vinícius Júnior 32'\n摩洛哥进球: Ismael Saibari 21'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-14
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:⚽ C组: 海地 0-1 苏格兰
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: C组\n场地: Boston (Foxborough)\n全场比分: 海地 0 - 1 苏格兰\n半场比分: 0 - 1\n苏格兰进球: John McGinn 28'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: Boston (Foxborough)\n全场比分: 海地 0 - 1 苏格兰\n半场比分: 0 - 1\n苏格兰进球: John McGinn 28'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-15
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:⚽ C组: 苏格兰 0-1 摩洛哥
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: C组\n场地: Boston (Foxborough)\n全场比分: 苏格兰 0 - 1 摩洛哥\n半场比分: 0 - 1\n摩洛哥进球: Ismael Saibari 2'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: Boston (Foxborough)\n全场比分: 苏格兰 0 - 1 摩洛哥\n半场比分: 0 - 1\n摩洛哥进球: Ismael Saibari 2'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-16
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:⚽ C组: 巴西 3-0 海地
 LOCATION:Philadelphia
-DESCRIPTION:阶段: C组\n场地: Philadelphia\n全场比分: 巴西 3 - 0 海地\n半场比分: 3 - 0\n巴西进球: Matheus Cunha 23', Matheus Cunha 36', Vinícius Júnior 45+3'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: Philadelphia\n全场比分: 巴西 3 - 0 海地\n半场比分: 3 - 0\n巴西进球: Matheus Cunha 23', Matheus Cunha 36', Vinícius Júnior 45+3'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-17
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:C组: 苏格兰 vs 巴西
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: C组\n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-18
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:C组: 摩洛哥 vs 海地
 LOCATION:Atlanta
-DESCRIPTION:阶段: C组\n场地: Atlanta\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: C组\n场地: Atlanta\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-19
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:⚽ D组: 美国 4-1 巴拉圭
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: D组\n场地: Los Angeles (Inglewood)\n全场比分: 美国 4 - 1 巴拉圭\n半场比分: 3 - 0\n美国进球: Damian Bobadilla 7' (乌龙), Folarin Balogun 31', Folarin Balogun 45+5', Giovanni Reyna 90+8'\n巴拉圭进球: Mauricio 73'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: Los Angeles (Inglewood)\n全场比分: 美国 4 - 1 巴拉圭\n半场比分: 3 - 0\n美国进球: Damian Bobadilla 7' (乌龙), Folarin Balogun 31', Folarin Balogun 45+5', Giovanni Reyna 90+8'\n巴拉圭进球: Mauricio 73'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-20
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:⚽ D组: 澳大利亚 2-0 土耳其
 LOCATION:Vancouver
-DESCRIPTION:阶段: D组\n场地: Vancouver\n全场比分: 澳大利亚 2 - 0 土耳其\n半场比分: 1 - 0\n澳大利亚进球: Nestory Irankunda 27', Connor Metcalfe 75'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: Vancouver\n全场比分: 澳大利亚 2 - 0 土耳其\n半场比分: 1 - 0\n澳大利亚进球: Nestory Irankunda 27', Connor Metcalfe 75'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-21
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:⚽ D组: 美国 2-0 澳大利亚
 LOCATION:Seattle
-DESCRIPTION:阶段: D组\n场地: Seattle\n全场比分: 美国 2 - 0 澳大利亚\n半场比分: 2 - 0\n美国进球: Cameron Burgess 11' (乌龙), Alex Freeman 43'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: Seattle\n全场比分: 美国 2 - 0 澳大利亚\n半场比分: 2 - 0\n美国进球: Cameron Burgess 11' (乌龙), Alex Freeman 43'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-22
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 SUMMARY:⚽ D组: 土耳其 0-1 巴拉圭
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: D组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 土耳其 0 - 1 巴拉圭\n半场比分: 0 - 1\n巴拉圭进球: Matías Galarza 2'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 土耳其 0 - 1 巴拉圭\n半场比分: 0 - 1\n巴拉圭进球: Matías Galarza 2'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-23
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:D组: 土耳其 vs 美国
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: D组\n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-24
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:D组: 巴拉圭 vs 澳大利亚
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: D组\n场地: San Francisco Bay Area (Santa Clara)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: D组\n场地: San Francisco Bay Area (Santa Clara)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-25
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:⚽ E组: 德国 7-1 库拉索
 LOCATION:Houston
-DESCRIPTION:阶段: E组\n场地: Houston\n全场比分: 德国 7 - 1 库拉索\n半场比分: 3 - 1\n德国进球: Felix Nmecha 6', Nico Schlotterbeck 38', Kai Havertz 45+5' (点球), Kai Havertz 88', Jamal Musiala 47', Nathaniel Brown 68', Deniz Undav 78'\n库拉索进球: Livano Comenencia 21'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: Houston\n全场比分: 德国 7 - 1 库拉索\n半场比分: 3 - 1\n德国进球: Felix Nmecha 6', Nico Schlotterbeck 38', Kai Havertz 45+5' (点球), Kai Havertz 88', Jamal Musiala 47', Nathaniel Brown 68', Deniz Undav 78'\n库拉索进球: Livano Comenencia 21'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-26
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:⚽ E组: 科特迪瓦 1-0 厄瓜多尔
 LOCATION:Philadelphia
-DESCRIPTION:阶段: E组\n场地: Philadelphia\n全场比分: 科特迪瓦 1 - 0 厄瓜多尔\n半场比分: 0 - 0\n科特迪瓦进球: Amad Diallo 90'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: Philadelphia\n全场比分: 科特迪瓦 1 - 0 厄瓜多尔\n半场比分: 0 - 0\n科特迪瓦进球: Amad Diallo 90'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-27
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:⚽ E组: 德国 2-1 科特迪瓦
 LOCATION:Toronto
-DESCRIPTION:阶段: E组\n场地: Toronto\n全场比分: 德国 2 - 1 科特迪瓦\n半场比分: 0 - 1\n德国进球: Deniz Undav 68', Deniz Undav 90+4'\n科特迪瓦进球: Franck Kessié 30'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: Toronto\n全场比分: 德国 2 - 1 科特迪瓦\n半场比分: 0 - 1\n德国进球: Deniz Undav 68', Deniz Undav 90+4'\n科特迪瓦进球: Franck Kessié 30'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-28
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:⚽ E组: 厄瓜多尔 0-0 库拉索
 LOCATION:Kansas City
-DESCRIPTION:阶段: E组\n场地: Kansas City\n全场比分: 厄瓜多尔 0 - 0 库拉索\n半场比分: 0 - 0\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: Kansas City\n全场比分: 厄瓜多尔 0 - 0 库拉索\n半场比分: 0 - 0\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-29
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:E组: 库拉索 vs 科特迪瓦
 LOCATION:Philadelphia
-DESCRIPTION:阶段: E组\n场地: Philadelphia\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: Philadelphia\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-30
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:E组: 厄瓜多尔 vs 德国
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: E组\n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: E组\n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-31
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:⚽ F组: 荷兰 2-2 日本
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: F组\n场地: Dallas (Arlington)\n全场比分: 荷兰 2 - 2 日本\n半场比分: 0 - 0\n荷兰进球: Virgil van Dijk 51', Crysencio Summerville 64'\n日本进球: Keito Nakamura 57', Daichi Kamada 88'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Dallas (Arlington)\n全场比分: 荷兰 2 - 2 日本\n半场比分: 0 - 0\n荷兰进球: Virgil van Dijk 51', Crysencio Summerville 64'\n日本进球: Keito Nakamura 57', Daichi Kamada 88'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-32
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:⚽ F组: 瑞典 5-1 突尼斯
 LOCATION:Monterrey (Guadalupe)
-DESCRIPTION:阶段: F组\n场地: Monterrey (Guadalupe)\n全场比分: 瑞典 5 - 1 突尼斯\n半场比分: 2 - 1\n瑞典进球: Yasin Ayari 7', Alexander Isak 30', Viktor Gyökeres 59', Mattias Svanberg 84', Yasin Ayari 90+6'\n突尼斯进球: Omar Rekik 43'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Monterrey (Guadalupe)\n全场比分: 瑞典 5 - 1 突尼斯\n半场比分: 2 - 1\n瑞典进球: Yasin Ayari 7', Alexander Isak 30', Viktor Gyökeres 59', Mattias Svanberg 84', Yasin Ayari 90+6'\n突尼斯进球: Omar Rekik 43'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-33
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:⚽ F组: 荷兰 5-1 瑞典
 LOCATION:Houston
-DESCRIPTION:阶段: F组\n场地: Houston\n全场比分: 荷兰 5 - 1 瑞典\n半场比分: 2 - 0\n荷兰进球: Brian Brobbey 5', Brian Brobbey 17', Cody Gakpo 47', Cody Gakpo 54', Crysencio Summerville 89'\n瑞典进球: Anthony Elanga 59'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Houston\n全场比分: 荷兰 5 - 1 瑞典\n半场比分: 2 - 0\n荷兰进球: Brian Brobbey 5', Brian Brobbey 17', Cody Gakpo 47', Cody Gakpo 54', Crysencio Summerville 89'\n瑞典进球: Anthony Elanga 59'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-34
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:⚽ F组: 突尼斯 0-4 日本
 LOCATION:Monterrey (Guadalupe)
-DESCRIPTION:阶段: F组\n场地: Monterrey (Guadalupe)\n全场比分: 突尼斯 0 - 4 日本\n半场比分: 0 - 2\n日本进球: Daichi Kamada 4', Ayase Ueda 31', Junya Ito 69', Ayase Ueda 83'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Monterrey (Guadalupe)\n全场比分: 突尼斯 0 - 4 日本\n半场比分: 0 - 2\n日本进球: Daichi Kamada 4', Ayase Ueda 31', Junya Ito 69', Ayase Ueda 83'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-35
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:F组: 日本 vs 瑞典
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: F组\n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-36
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:F组: 突尼斯 vs 荷兰
 LOCATION:Kansas City
-DESCRIPTION:阶段: F组\n场地: Kansas City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: F组\n场地: Kansas City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-37
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:⚽ G组: 比利时 1-1 埃及
 LOCATION:Seattle
-DESCRIPTION:阶段: G组\n场地: Seattle\n全场比分: 比利时 1 - 1 埃及\n半场比分: 0 - 1\n比利时进球: Mohamed Hany 66' (乌龙)\n埃及进球: Emam Ashour 19'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Seattle\n全场比分: 比利时 1 - 1 埃及\n半场比分: 0 - 1\n比利时进球: Mohamed Hany 66' (乌龙)\n埃及进球: Emam Ashour 19'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-38
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:⚽ G组: 伊朗 2-2 新西兰
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: G组\n场地: Los Angeles (Inglewood)\n全场比分: 伊朗 2 - 2 新西兰\n半场比分: 1 - 1\n伊朗进球: Ramin Rezaeian 32', Mohammad Mohebbi 64'\n新西兰进球: Elijah Just 7', Elijah Just 54'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Los Angeles (Inglewood)\n全场比分: 伊朗 2 - 2 新西兰\n半场比分: 1 - 1\n伊朗进球: Ramin Rezaeian 32', Mohammad Mohebbi 64'\n新西兰进球: Elijah Just 7', Elijah Just 54'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-39
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:⚽ G组: 比利时 0-0 伊朗
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: G组\n场地: Los Angeles (Inglewood)\n全场比分: 比利时 0 - 0 伊朗\n半场比分: 0 - 0\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Los Angeles (Inglewood)\n全场比分: 比利时 0 - 0 伊朗\n半场比分: 0 - 0\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-40
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:⚽ G组: 新西兰 1-3 埃及
 LOCATION:Vancouver
-DESCRIPTION:阶段: G组\n场地: Vancouver\n全场比分: 新西兰 1 - 3 埃及\n半场比分: 1 - 0\n新西兰进球: Finn Surman 15'\n埃及进球: Mostafa Zico 58', Mohamed Salah 67', Trézéguet 82'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Vancouver\n全场比分: 新西兰 1 - 3 埃及\n半场比分: 1 - 0\n新西兰进球: Finn Surman 15'\n埃及进球: Mostafa Zico 58', Mohamed Salah 67', Trézéguet 82'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-41
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:G组: 埃及 vs 伊朗
 LOCATION:Seattle
-DESCRIPTION:阶段: G组\n场地: Seattle\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Seattle\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-42
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:G组: 新西兰 vs 比利时
 LOCATION:Vancouver
-DESCRIPTION:阶段: G组\n场地: Vancouver\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: G组\n场地: Vancouver\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-43
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:⚽ H组: 西班牙 0-0 佛得角
 LOCATION:Atlanta
-DESCRIPTION:阶段: H组\n场地: Atlanta\n全场比分: 西班牙 0 - 0 佛得角\n半场比分: 0 - 0\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Atlanta\n全场比分: 西班牙 0 - 0 佛得角\n半场比分: 0 - 0\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-44
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:⚽ H组: 沙特 1-1 乌拉圭
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: H组\n场地: Miami (Miami Gardens)\n全场比分: 沙特 1 - 1 乌拉圭\n半场比分: 1 - 0\n沙特进球: Abdulelah Al-Amri 41'\n乌拉圭进球: Maxi Araújo 80'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Miami (Miami Gardens)\n全场比分: 沙特 1 - 1 乌拉圭\n半场比分: 1 - 0\n沙特进球: Abdulelah Al-Amri 41'\n乌拉圭进球: Maxi Araújo 80'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-45
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:⚽ H组: 西班牙 4-0 沙特
 LOCATION:Atlanta
-DESCRIPTION:阶段: H组\n场地: Atlanta\n全场比分: 西班牙 4 - 0 沙特\n半场比分: 3 - 0\n西班牙进球: Lamine Yamal 10', Mikel Oyarzabal 21', Mikel Oyarzabal 24', Hassan Al-Tambakti 49' (乌龙)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Atlanta\n全场比分: 西班牙 4 - 0 沙特\n半场比分: 3 - 0\n西班牙进球: Lamine Yamal 10', Mikel Oyarzabal 21', Mikel Oyarzabal 24', Hassan Al-Tambakti 49' (乌龙)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-46
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:⚽ H组: 乌拉圭 2-2 佛得角
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: H组\n场地: Miami (Miami Gardens)\n全场比分: 乌拉圭 2 - 2 佛得角\n半场比分: 2 - 1\n乌拉圭进球: Maxi Araújo 44', Agustín Cano 45+6'\n佛得角进球: Kevin Pina 21', Hélio Varela 61'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Miami (Miami Gardens)\n全场比分: 乌拉圭 2 - 2 佛得角\n半场比分: 2 - 1\n乌拉圭进球: Maxi Araújo 44', Agustín Cano 45+6'\n佛得角进球: Kevin Pina 21', Hélio Varela 61'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-47
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:H组: 佛得角 vs 沙特
 LOCATION:Houston
-DESCRIPTION:阶段: H组\n场地: Houston\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Houston\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-48
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:H组: 乌拉圭 vs 西班牙
 LOCATION:Guadalajara (Zapopan)
-DESCRIPTION:阶段: H组\n场地: Guadalajara (Zapopan)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: H组\n场地: Guadalajara (Zapopan)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-49
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:⚽ I组: 法国 3-1 塞内加尔
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: I组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 法国 3 - 1 塞内加尔\n半场比分: 0 - 0\n法国进球: Kylian Mbappé 66', Bradley Barcola 82', Kylian Mbappé 90+6'\n塞内加尔进球: Ibrahim Mbaye 90+5'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 法国 3 - 1 塞内加尔\n半场比分: 0 - 0\n法国进球: Kylian Mbappé 66', Bradley Barcola 82', Kylian Mbappé 90+6'\n塞内加尔进球: Ibrahim Mbaye 90+5'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-50
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:⚽ I组: 伊拉克 1-4 挪威
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: I组\n场地: Boston (Foxborough)\n全场比分: 伊拉克 1 - 4 挪威\n半场比分: 1 - 2\n伊拉克进球: Aymen Hussein 39'\n挪威进球: Erling Haaland 29', Erling Haaland 43', Leo Østigard 76', Aymen Hussein 90+6' (乌龙)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: Boston (Foxborough)\n全场比分: 伊拉克 1 - 4 挪威\n半场比分: 1 - 2\n伊拉克进球: Aymen Hussein 39'\n挪威进球: Erling Haaland 29', Erling Haaland 43', Leo Østigard 76', Aymen Hussein 90+6' (乌龙)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-51
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:⚽ I组: 法国 3-0 伊拉克
 LOCATION:Philadelphia
-DESCRIPTION:阶段: I组\n场地: Philadelphia\n全场比分: 法国 3 - 0 伊拉克\n半场比分: 1 - 0\n法国进球: Kylian Mbappé 14', Kylian Mbappé 54', Ousmane Dembélé 66'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: Philadelphia\n全场比分: 法国 3 - 0 伊拉克\n半场比分: 1 - 0\n法国进球: Kylian Mbappé 14', Kylian Mbappé 54', Ousmane Dembélé 66'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-52
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:⚽ I组: 挪威 3-2 塞内加尔
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: I组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 挪威 3 - 2 塞内加尔\n半场比分: 1 - 0\n挪威进球: Marcus Holmgren Pedersen 43', Erling Haaland 48', Erling Haaland 58'\n塞内加尔进球: Ismaïla Sarr 53', Ismaïla Sarr 90+3'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: New York/New Jersey (East Rutherford)\n全场比分: 挪威 3 - 2 塞内加尔\n半场比分: 1 - 0\n挪威进球: Marcus Holmgren Pedersen 43', Erling Haaland 48', Erling Haaland 58'\n塞内加尔进球: Ismaïla Sarr 53', Ismaïla Sarr 90+3'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-53
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:I组: 挪威 vs 法国
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: I组\n场地: Boston (Foxborough)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: Boston (Foxborough)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-54
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:I组: 塞内加尔 vs 伊拉克
 LOCATION:Toronto
-DESCRIPTION:阶段: I组\n场地: Toronto\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: I组\n场地: Toronto\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-55
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:⚽ J组: 阿根廷 3-0 阿尔及利亚
 LOCATION:Kansas City
-DESCRIPTION:阶段: J组\n场地: Kansas City\n全场比分: 阿根廷 3 - 0 阿尔及利亚\n半场比分: 1 - 0\n阿根廷进球: Lionel Messi 17', Lionel Messi 60', Lionel Messi 76'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: Kansas City\n全场比分: 阿根廷 3 - 0 阿尔及利亚\n半场比分: 1 - 0\n阿根廷进球: Lionel Messi 17', Lionel Messi 60', Lionel Messi 76'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-56
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:⚽ J组: 奥地利 3-1 约旦
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: J组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 奥地利 3 - 1 约旦\n半场比分: 1 - 0\n奥地利进球: Romano Schmid 21', Yazan Al-Arab 76' (乌龙), Marko Arnautovic 90+12' (点球)\n约旦进球: Ali Olwan 50'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 奥地利 3 - 1 约旦\n半场比分: 1 - 0\n奥地利进球: Romano Schmid 21', Yazan Al-Arab 76' (乌龙), Marko Arnautovic 90+12' (点球)\n约旦进球: Ali Olwan 50'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-57
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:⚽ J组: 阿根廷 2-0 奥地利
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: J组\n场地: Dallas (Arlington)\n全场比分: 阿根廷 2 - 0 奥地利\n半场比分: 1 - 0\n阿根廷进球: Lionel Messi 38', Lionel Messi 90+5'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: Dallas (Arlington)\n全场比分: 阿根廷 2 - 0 奥地利\n半场比分: 1 - 0\n阿根廷进球: Lionel Messi 38', Lionel Messi 90+5'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-58
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:⚽ J组: 约旦 1-2 阿尔及利亚
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: J组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 约旦 1 - 2 阿尔及利亚\n半场比分: 1 - 0\n约旦进球: Nizar Al-Rashdan 36'\n阿尔及利亚进球: Nadhir Benbouali 69', Amine Gouiri 82'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: San Francisco Bay Area (Santa Clara)\n全场比分: 约旦 1 - 2 阿尔及利亚\n半场比分: 1 - 0\n约旦进球: Nizar Al-Rashdan 36'\n阿尔及利亚进球: Nadhir Benbouali 69', Amine Gouiri 82'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:J组: 阿尔及利亚 vs 奥地利
 LOCATION:Kansas City
-DESCRIPTION:阶段: J组\n场地: Kansas City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: Kansas City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-60
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:J组: 约旦 vs 阿根廷
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: J组\n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: J组\n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-61
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:⚽ K组: 葡萄牙 1-1 刚果(金)
 LOCATION:Houston
-DESCRIPTION:阶段: K组\n场地: Houston\n全场比分: 葡萄牙 1 - 1 刚果(金)\n半场比分: 1 - 1\n葡萄牙进球: João Neves 6'\n刚果(金)进球: Yoane Wissa 45+5'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Houston\n全场比分: 葡萄牙 1 - 1 刚果(金)\n半场比分: 1 - 1\n葡萄牙进球: João Neves 6'\n刚果(金)进球: Yoane Wissa 45+5'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-62
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:⚽ K组: 乌兹别克斯坦 1-3 哥伦比亚
 LOCATION:Mexico City
-DESCRIPTION:阶段: K组\n场地: Mexico City\n全场比分: 乌兹别克斯坦 1 - 3 哥伦比亚\n半场比分: 0 - 1\n乌兹别克斯坦进球: Abbosbek Fayzullaev 60'\n哥伦比亚进球: Daniel Muñoz 40', Luis Díaz 65', Jáminton Campaz 90+9'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Mexico City\n全场比分: 乌兹别克斯坦 1 - 3 哥伦比亚\n半场比分: 0 - 1\n乌兹别克斯坦进球: Abbosbek Fayzullaev 60'\n哥伦比亚进球: Daniel Muñoz 40', Luis Díaz 65', Jáminton Campaz 90+9'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-63
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:⚽ K组: 葡萄牙 5-0 乌兹别克斯坦
 LOCATION:Houston
-DESCRIPTION:阶段: K组\n场地: Houston\n全场比分: 葡萄牙 5 - 0 乌兹别克斯坦\n半场比分: 3 - 0\n葡萄牙进球: Cristiano Ronaldo 6', Nuno Mendes 17', Cristiano Ronaldo 39', Abduvohid Nematov 60' (乌龙), Rafael Leão 87'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Houston\n全场比分: 葡萄牙 5 - 0 乌兹别克斯坦\n半场比分: 3 - 0\n葡萄牙进球: Cristiano Ronaldo 6', Nuno Mendes 17', Cristiano Ronaldo 39', Abduvohid Nematov 60' (乌龙), Rafael Leão 87'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-64
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-SUMMARY:K组: 哥伦比亚 vs 刚果(金)
+SUMMARY:⚽ K组: 哥伦比亚 1-0 刚果(金)
 LOCATION:Guadalajara (Zapopan)
-DESCRIPTION:阶段: K组\n场地: Guadalajara (Zapopan)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Guadalajara (Zapopan)\n全场比分: 哥伦比亚 1 - 0 刚果(金)\n半场比分: 0 - 0\n哥伦比亚进球: Daniel Muñoz 76'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-65
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:K组: 哥伦比亚 vs 葡萄牙
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: K组\n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-66
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:K组: 刚果(金) vs 乌兹别克斯坦
 LOCATION:Atlanta
-DESCRIPTION:阶段: K组\n场地: Atlanta\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: K组\n场地: Atlanta\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:⚽ L组: 英格兰 4-2 克罗地亚
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: L组\n场地: Dallas (Arlington)\n全场比分: 英格兰 4 - 2 克罗地亚\n半场比分: 2 - 2\n英格兰进球: Harry Kane 12' (点球), Harry Kane 42', Jude Bellingham 47', Marcus Rashford 85'\n克罗地亚进球: Martin Baturina 36', Petar Musa 45+5'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: Dallas (Arlington)\n全场比分: 英格兰 4 - 2 克罗地亚\n半场比分: 2 - 2\n英格兰进球: Harry Kane 12' (点球), Harry Kane 42', Jude Bellingham 47', Marcus Rashford 85'\n克罗地亚进球: Martin Baturina 36', Petar Musa 45+5'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-68
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:⚽ L组: 加纳 1-0 巴拿马
 LOCATION:Toronto
-DESCRIPTION:阶段: L组\n场地: Toronto\n全场比分: 加纳 1 - 0 巴拿马\n半场比分: 0 - 0\n加纳进球: Caleb Yirenkyi 90+5'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: Toronto\n全场比分: 加纳 1 - 0 巴拿马\n半场比分: 0 - 0\n加纳进球: Caleb Yirenkyi 90+5'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-69
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:⚽ L组: 英格兰 0-0 加纳
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: L组\n场地: Boston (Foxborough)\n全场比分: 英格兰 0 - 0 加纳\n半场比分: 0 - 0\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: Boston (Foxborough)\n全场比分: 英格兰 0 - 0 加纳\n半场比分: 0 - 0\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-70
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:⚽ L组: 巴拿马 0-1 克罗地亚
 LOCATION:Toronto
-DESCRIPTION:阶段: L组\n场地: Toronto\n全场比分: 巴拿马 0 - 1 克罗地亚\n半场比分: 0 - 0\n克罗地亚进球: Ante Budimir 54'\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: Toronto\n全场比分: 巴拿马 0 - 1 克罗地亚\n半场比分: 0 - 0\n克罗地亚进球: Ante Budimir 54'\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:L组: 巴拿马 vs 英格兰
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: L组\n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-72
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:L组: 克罗地亚 vs 加纳
 LOCATION:Philadelphia
-DESCRIPTION:阶段: L组\n场地: Philadelphia\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: L组\n场地: Philadelphia\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 SUMMARY:2A vs 2B
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 SUMMARY:德国 vs 3A/B/C/D/F
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: \n场地: Boston (Foxborough)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Boston (Foxborough)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 SUMMARY:1F vs 2C
 LOCATION:Monterrey (Guadalupe)
-DESCRIPTION:阶段: \n场地: Monterrey (Guadalupe)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Monterrey (Guadalupe)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-76
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:1C vs 2F
 LOCATION:Houston
-DESCRIPTION:阶段: \n场地: Houston\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Houston\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 SUMMARY:1I vs 3C/D/F/G/H
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-78
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 SUMMARY:2E vs 2I
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-79
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 SUMMARY:墨西哥 vs 3C/E/F/H/I
 LOCATION:Mexico City
-DESCRIPTION:阶段: \n场地: Mexico City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Mexico City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 SUMMARY:1L vs 3E/H/I/J/K
 LOCATION:Atlanta
-DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-81
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 SUMMARY:美国 vs 3B/E/F/I/J
 LOCATION:San Francisco Bay Area (Santa Clara)
-DESCRIPTION:阶段: \n场地: San Francisco Bay Area (Santa Clara)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: San Francisco Bay Area (Santa Clara)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-82
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 SUMMARY:1G vs 3A/E/H/I/J
 LOCATION:Seattle
-DESCRIPTION:阶段: \n场地: Seattle\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Seattle\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 SUMMARY:2K vs 2L
 LOCATION:Toronto
-DESCRIPTION:阶段: \n场地: Toronto\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Toronto\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-84
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 SUMMARY:1H vs 2J
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-85
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 SUMMARY:1B vs 3E/F/G/I/J
 LOCATION:Vancouver
-DESCRIPTION:阶段: \n场地: Vancouver\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Vancouver\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 SUMMARY:1J vs 2H
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 SUMMARY:1K vs 3D/E/I/J/L
 LOCATION:Kansas City
-DESCRIPTION:阶段: \n场地: Kansas City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Kansas City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 SUMMARY:2D vs 2G
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:W74 vs W77
 LOCATION:Philadelphia
-DESCRIPTION:阶段: \n场地: Philadelphia\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Philadelphia\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:W73 vs W75
 LOCATION:Houston
-DESCRIPTION:阶段: \n场地: Houston\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Houston\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-91
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:W76 vs W78
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 SUMMARY:W79 vs W80
 LOCATION:Mexico City
-DESCRIPTION:阶段: \n场地: Mexico City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Mexico City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:W83 vs W84
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:W81 vs W82
 LOCATION:Seattle
-DESCRIPTION:阶段: \n场地: Seattle\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Seattle\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:W86 vs W88
 LOCATION:Atlanta
-DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:W85 vs W87
 LOCATION:Vancouver
-DESCRIPTION:阶段: \n场地: Vancouver\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Vancouver\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:W89 vs W90
 LOCATION:Boston (Foxborough)
-DESCRIPTION:阶段: \n场地: Boston (Foxborough)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Boston (Foxborough)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:W93 vs W94
 LOCATION:Los Angeles (Inglewood)
-DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Los Angeles (Inglewood)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:W91 vs W92
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:W95 vs W96
 LOCATION:Kansas City
-DESCRIPTION:阶段: \n场地: Kansas City\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Kansas City\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:W97 vs W98
 LOCATION:Dallas (Arlington)
-DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Dallas (Arlington)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:W99 vs W100
 LOCATION:Atlanta
-DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Atlanta\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:L101 vs L102
 LOCATION:Miami (Miami Gardens)
-DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: Miami (Miami Gardens)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104
-DTSTAMP:20260624T033039Z
+DTSTAMP:20260624T073944Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:W101 vs W102
 LOCATION:New York/New Jersey (East Rutherford)
-DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 03:30 UTC
+DESCRIPTION:阶段: \n场地: New York/New Jersey (East Rutherford)\n自动更新于 2026-06-24 07:39 UTC
 END:VEVENT
 END:VCALENDAR
