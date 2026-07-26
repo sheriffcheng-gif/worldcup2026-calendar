@@ -1,10 +1,9 @@
-name: Update World Cup Calendar
+name: Update MLS Calendar
 
 on:
   schedule:
-    # 世界杯期间每30分钟刷新比分 (6月11日-7月19日)
-    # 赛后改回 '0 6,18 * * *'
-    - cron: '*/30 * * * *'
+    # 每6小时更新一次 (MLS 赛程变化不频繁)
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -36,5 +35,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add worldcup2026.ics
-          git commit -m "🔄 Update World Cup schedule $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
+          git commit -m "🔄 Update MLS schedule $(date -u +%Y-%m-%d\\ %H:%M\\ UTC)"
           git push
